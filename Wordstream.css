@@ -1,0 +1,192 @@
+*{
+	margin=0;
+	padding=0;
+}
+
+#right-corner-box {
+float: right;
+width: auto;
+height: 31px;
+padding: 0px 8px 0px 0px;
+border-radius: 5px;
+
+}
+.right-menu {
+font-size: 11px;
+color: #989898;
+float: left;
+padding-top: 7px;
+
+}
+.right-menu ul{
+float: left;
+width: auto;
+margin: 0px;
+padding: 0px;
+min-width: 240px;
+}
+
+.login-button {
+position: relative;
+float: right;
+width: 59px;
+height: 22px;
+padding: 5px 0px 5px 25px;
+background-color: #0080FF;
+}
+.right-menu ul li{
+	display: inline;
+}
+.right-menu	 a{
+	display: inline;
+	font-size: 14px;
+	text-align: center;
+	color: gray;
+	margin: 0;
+	padding: 0px 5px 2px 5px;
+	border-right: 2px solid #B4B4B4;
+
+}
+
+
+#banner {
+
+background-color: #0080FF;
+height: 40px;
+padding-bottom: 20px;
+}
+
+#banner p {
+font-size: 25px;
+color: white;
+padding: 10px 15px 25px 20px;
+}
+
+#schedule {
+display: block;	
+color: white;
+width: 170px;
+height: 25px;
+
+padding: 5px 10px 20px 5px;
+border-radius: 5px;
+font-size: 15px;
+background-color: #0080FF;
+font-weight: bold;
+}
+#trial {
+display: block;	
+color: white;
+width: 170px;
+height: 25px;
+font-size: 15px;
+padding: 5px 10px 20px 5px;
+border-radius: 5px;
+background-color: orange;
+font-weight: bold;
+}
+#wrapper{
+	width: 1400px;
+}
+#main-content{
+	width: 1000px;
+	display: inline-block;
+}
+#sidebar{
+  width: 260px;
+  /*background-color:white;*/
+  padding: 20px;
+  height: 500px;
+  display: inline-block;
+  vertical-align: top;
+}
+#contact-details{
+width: 1100px;
+margin-left: 0;
+background-color: #FAFAFA;
+padding: 0;
+display: inline-block;
+vertical-align: top;
+height: 75px;
+border-bottom: 3px solid #B4B4B4;
+}
+.home_button{
+	display: inline-block;
+}
+.phone-no {
+display: inline;	
+float: right;
+width: auto;
+height: 50px;
+padding: 0px 8px 0px 0px;
+border-radius: 5px;
+
+}
+.phone-no h5{
+	position: relative;
+	float: right;
+	color: #989898;
+	margin:0;
+	padding:0;
+}
+.phone-no h2{
+	color: #0080FF;
+	margin:0;
+	padding:0;
+}
+.phone-no img{
+	position: relative;
+	float: left;
+}
+#content h4{
+	margin=0;
+	padding =0;
+}
+
+#middle-ad  {
+display: block;	
+width: auto;
+height: 150px;
+padding: 0px 8px 0px 0px;
+border: 3px solid #0080FF;
+
+}
+#middle-ad img{
+	position: relative;
+	float: left;
+	width:80px;
+	height:120px;
+	margin: 20px 10px;
+
+}
+#middle-ad h2{
+	
+	color: #0080FF;
+	margin:0;
+	padding:0;
+
+}
+
+#ad h4{
+	color: black;
+	margin:10;
+	padding:10;
+	font-weight: normal;
+
+}
+#start {
+
+color: white;
+width: 180px;
+height: 25px;
+padding: 0px 10px 20px 5px;
+border-radius: 5px;
+background-color: #64FE2E;
+font-size: 12px;
+
+}
+
+#last h3{
+color: #0080FF;
+}
+
