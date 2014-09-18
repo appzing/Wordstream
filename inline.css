@@ -1,0 +1,30 @@
+
+#regular p{
+	
+	background-color: blue;
+	
+}
+
+#inline p{
+	display: inline;
+	background-color: green;
+
+}
+
+#lowerpart{
+	width: 1440px;
+}
+
+#inline-block .test {
+display: inline-block;
+
+	background-color: yellow;
+}
+
+#lowerpart .test p{
+	
+	margin:0;
+	padding:0;
+	background-color: white;
+	width: 223px	;
+}	
